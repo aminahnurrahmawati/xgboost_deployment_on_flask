@@ -2,3 +2,6 @@ pandas
 numpy
 pickle
 flask
+sklearn
+xgboost
+matplotlib
