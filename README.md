@@ -3,3 +3,6 @@ this repository is for predicting the classification of a dry bean based on its 
 
 ## How to install libraries needed
 ```pip install -r requirements.txt```
+
+## Python Version
+Python 3.9 or above
