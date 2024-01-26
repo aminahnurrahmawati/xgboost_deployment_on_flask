@@ -6,3 +6,5 @@ this repository is for predicting the classification of a dry bean based on its 
 
 ## Python Version
 Python 3.9 or above
+
+# The clean code and full codes are available in the folder
